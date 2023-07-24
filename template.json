@@ -1,0 +1,21 @@
+{
+  "faction": "/r/fuckspezplace/",
+  "contact": "https://discord.gg/v6hQb7nY",
+  "templates": [
+    {
+      "name": "Fuck Spez",
+      "sources": [
+        "https://i.imgur.com/9L0ArfZ.png"
+      ],
+      "x": 2500,
+      "y": 790
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "JOIN-LEMMY.org: a better Reddit",
+      "url": "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/jlemmybig.json"
+    }
+  ],
+  "blacklist": []
+}
